@@ -1,5 +1,7 @@
 #Powertool
 
+PowerTool is a free anti-virus&rootkit utility. It offers you the ability to detect, analyze and fix various kernel structure modifications and gives you a wide scope of the kernel.
+
 ##PowerTool V4.5.zip
 [DOWNLOAD](https://github.com/Jyny/powertool-google/blob/master/downloads/PowerTool%20V4.5.zip?raw=true)
 SHA1 Checksum:	1ae34593e35c4bc3c323cdb50c044d9923e8fbfd
